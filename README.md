@@ -1,4 +1,4 @@
-# project3
+# project3 - Particle Physics
 
 목표
 - 특정 공간에 유체를 원하는 만큼 채울 수 있도록 함
